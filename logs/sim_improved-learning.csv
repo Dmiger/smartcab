@@ -1,0 +1,2 @@
+trial,testing,parameters,initial_deadline,final_deadline,net_reward,actions,success
+1,False,"{'a': 0.5, 'e': 0.95}",20,6,-38.46316213565258,"{0: 7, 1: 4, 2: 3, 3: 0, 4: 0}",1
